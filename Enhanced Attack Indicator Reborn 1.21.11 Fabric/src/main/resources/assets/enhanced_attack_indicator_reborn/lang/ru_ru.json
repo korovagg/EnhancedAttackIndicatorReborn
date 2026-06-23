@@ -1,0 +1,15 @@
+{
+  "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Показывать прогресс разрушения блока",
+  "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Показывать натяжение лука/арбалета",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Показывать перезарядку предметов",
+  "enhanced_attack_indicator_reborn.midnightconfig.showFoodAndPotions": "Показывать использование еды и зелий",
+  "enhanced_attack_indicator_reborn.midnightconfig.disablePickaxesAndShovels": "Отключить индикатор для кирок и лопат",
+  "enhanced_attack_indicator_reborn.midnightconfig.disableAxes": "Отключить индикатор для топоров",
+  "enhanced_attack_indicator_reborn.midnightconfig.weaponCoolDownImportance": "Приоритет индикатора атаки",
+  "enhanced_attack_indicator_reborn.midnightconfig.showSleep": "Показывать прогресс сна",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemContainerFullness": "Показывать заполненность шалкера",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "Высокий",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Средний",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Низкий"
+}

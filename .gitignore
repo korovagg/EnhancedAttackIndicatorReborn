@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+.cache
+.pytest_cache/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Minecraft Modding (Recursive for all subfolders)
+**/.gradle/
+**/build/
+**/out/
+**/.run/
+**/run/
+**/gradle.properties.bak
+**/*.accesswidener.at
+**/.factorypath
+**/.project
+**/.settings/
+**/.classpath
+**/bin/
+**/*.launch
+**/.DS_Store
+
+# User-specific (ignore gradle.properties in all subfolders except wrapper)
+**/gradle.properties
+!**/gradle/wrapper/gradle-wrapper.properties

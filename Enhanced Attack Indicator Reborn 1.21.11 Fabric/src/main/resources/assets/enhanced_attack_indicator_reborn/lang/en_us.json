@@ -1,0 +1,15 @@
+{
+  "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Show Block Breaking Progress",
+  "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Show Ranged Weapon Draw",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Show Item Cooldowns",
+  "enhanced_attack_indicator_reborn.midnightconfig.showFoodAndPotions": "Show Food & Potions",
+  "enhanced_attack_indicator_reborn.midnightconfig.disablePickaxesAndShovels": "Disable Pickaxe's & Shovel's Attack Cooldown",
+  "enhanced_attack_indicator_reborn.midnightconfig.disableAxes": "Disable Axe's Attack Cooldown",
+  "enhanced_attack_indicator_reborn.midnightconfig.weaponCoolDownImportance": "Attack Cooldown Priority",
+  "enhanced_attack_indicator_reborn.midnightconfig.showSleep": "Show Sleep Progress",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemContainerFullness": "Show Shulker Fullness",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "First",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Middle",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Last"
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "enhanced_attack_indicator_reborn",
+  "version": "${version}",
+  "name": "Enhanced Attack Indicator Reborn",
+  "description": "Uses the attack indicator for more than just melee attacks.",
+  "authors": [
+    "KoroWin",
+    "Minenash"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/enhanced-attack-indicator-reborn",
+    "sources": "https://github.com/korovagg/EnhancedAttackIndicatorReborn",
+    "issues": "https://github.com/korovagg/EnhancedAttackIndicatorReborn/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/enhanced_attack_indicator_reborn/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "win.korowin.enhanced_attack_indicator_reborn.EnhancedAttackIndicatorReborn"
+    ],
+    "modmenu": [
+      "win.korowin.enhanced_attack_indicator_reborn.config.ModMenuEntryPoint"
+    ]
+  },
+  "mixins": [
+    "enhanced_attack_indicator_reborn.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
