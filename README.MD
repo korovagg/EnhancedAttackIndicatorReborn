@@ -15,3 +15,8 @@ Other Features:
 * Ability to change the priority of the normal weapon cooldown
 * Ability to disable pickaxe and shovel weapon cooldowns
 * Ability to disable axe weapon cooldowns
+
+---
+<center>
+  
+[![CurseForge](https://i.ibb.co/57rNyyy/image.png)](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator-reborn) [![Modrinth](https://i.ibb.co/TqwWmF06/1.png)](https://modrinth.com/mod/enhanced-attack-indicator-reborn)
