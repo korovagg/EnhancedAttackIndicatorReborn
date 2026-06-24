@@ -1,0 +1,16 @@
+{
+  "enhanced_attack_indicator_reborn.configuration.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.configuration.showBlockBreaking": "Mostrar progreso de rotura de bloques",
+  "enhanced_attack_indicator_reborn.configuration.showRangeWeaponDraw": "Mostrar progreso de tensado de arma a distancia",
+  "enhanced_attack_indicator_reborn.configuration.showItemCooldowns": "Mostrar enfriamiento de objetos",
+  "enhanced_attack_indicator_reborn.configuration.showFoodAndPotions": "Mostrar alimentos & pociones",
+  "enhanced_attack_indicator_reborn.configuration.disablePickaxesAndShovels": "Deshabilitar el enfriamiento de ataque de picos y palas",
+  "enhanced_attack_indicator_reborn.configuration.disableAxes": "Deshabilitar el enfriamiento de ataque de hachas",
+  "enhanced_attack_indicator_reborn.configuration.weaponCoolDownImportance": "Prioridad de enfriamiento de ataque",
+  "enhanced_attack_indicator_reborn.configuration.showSleep": "Mostrar progreso de sueño",
+  "enhanced_attack_indicator_reborn.configuration.showItemContainerFullness": "Mostrar capacidad de shulker",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.FIRST": "Primero",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.MIDDLE": "Medio",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.LAST": "Último"
+}
+

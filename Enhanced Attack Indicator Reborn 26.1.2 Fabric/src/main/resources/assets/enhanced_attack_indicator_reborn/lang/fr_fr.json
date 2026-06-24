@@ -1,0 +1,16 @@
+{
+  "enhanced_attack_indicator_reborn.configuration.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.configuration.showBlockBreaking": "Afficher la progression de destruction des blocs",
+  "enhanced_attack_indicator_reborn.configuration.showRangeWeaponDraw": "Afficher la préparation des armes à distance",
+  "enhanced_attack_indicator_reborn.configuration.showItemCooldowns": "Afficher les temps de recharge des objets",
+  "enhanced_attack_indicator_reborn.configuration.showFoodAndPotions": "Afficher la nourriture et les potions",
+  "enhanced_attack_indicator_reborn.configuration.disablePickaxesAndShovels": "Désactiver le temps de recharge des pioches et des pelles",
+  "enhanced_attack_indicator_reborn.configuration.disableAxes": "Désactiver le temps de recharge des haches",
+  "enhanced_attack_indicator_reborn.configuration.weaponCoolDownImportance": "Priorité du temps de recharge de l'attaque",
+  "enhanced_attack_indicator_reborn.configuration.showSleep": "Afficher la progression du sommeil",
+  "enhanced_attack_indicator_reborn.configuration.showItemContainerFullness": "Afficher la plénitude de la boîte Shulker",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.FIRST": "Premier",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.MIDDLE": "Milieu",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.LAST": "Dernier"
+}
+

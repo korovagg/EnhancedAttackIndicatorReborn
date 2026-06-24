@@ -1,0 +1,16 @@
+{
+  "enhanced_attack_indicator_reborn.configuration.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.configuration.showBlockBreaking": "显示破坏方块进度",
+  "enhanced_attack_indicator_reborn.configuration.showRangeWeaponDraw": "显示远程武器的拉动",
+  "enhanced_attack_indicator_reborn.configuration.showItemCooldowns": "显示物品冷却时间",
+  "enhanced_attack_indicator_reborn.configuration.showFoodAndPotions": "显示食物和药水",
+  "enhanced_attack_indicator_reborn.configuration.disablePickaxesAndShovels": "禁用镐子和锹的攻击冷却时间显示",
+  "enhanced_attack_indicator_reborn.configuration.disableAxes": "禁用斧头的攻击冷却时间显示",
+  "enhanced_attack_indicator_reborn.configuration.weaponCoolDownImportance": "攻击冷却时间优先级",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.FIRST": "最高",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.MIDDLE": "中等",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.LAST": "最后",
+  "enhanced_attack_indicator_reborn.configuration.showSleep": "显示睡眠进度",
+  "enhanced_attack_indicator_reborn.configuration.showItemContainerFullness": "显示潜影盒充满度"
+}
+

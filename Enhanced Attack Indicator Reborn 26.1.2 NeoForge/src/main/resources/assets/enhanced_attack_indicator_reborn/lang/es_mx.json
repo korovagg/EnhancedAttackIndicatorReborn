@@ -1,0 +1,16 @@
+{
+  "enhanced_attack_indicator_reborn.configuration.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.configuration.showBlockBreaking": "Mostrar el progreso de ruptura de bloque",
+  "enhanced_attack_indicator_reborn.configuration.showRangeWeaponDraw": "Mostrar el progreso al disparar armas a distancia",
+  "enhanced_attack_indicator_reborn.configuration.showItemCooldowns": "Mostrar el progreso del tiempo de reutilización de objetos",
+  "enhanced_attack_indicator_reborn.configuration.showFoodAndPotions": "Mostrar el progreso del tiempo de reutilización de la comida y pociones",
+  "enhanced_attack_indicator_reborn.configuration.disablePickaxesAndShovels": "Desactivar el tiempo de reutilización del pico y la pala",
+  "enhanced_attack_indicator_reborn.configuration.disableAxes": "Desactivar el tiempo de reutilización del hacha",
+  "enhanced_attack_indicator_reborn.configuration.weaponCoolDownImportance": "Prioridad del tiempo de reutilización de armas",
+  "enhanced_attack_indicator_reborn.configuration.showSleep": "Mostrar el progreso al dormir",
+  "enhanced_attack_indicator_reborn.configuration.showItemContainerFullness": "Mostrar el progreso al llenar contenedores",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.FIRST": "Primera",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.MIDDLE": "Media",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.LAST": "Última"
+}
+
