@@ -16,6 +16,8 @@ Other Features:
 * Ability to disable pickaxe and shovel weapon cooldowns
 * Ability to disable axe weapon cooldowns
 
+> Bugfix **MC-118740** from Debugify mod breaks **Enhanced Attack Indicator Reborn**! Disable it for correct mod working!
+
 ---
 <center>
   
