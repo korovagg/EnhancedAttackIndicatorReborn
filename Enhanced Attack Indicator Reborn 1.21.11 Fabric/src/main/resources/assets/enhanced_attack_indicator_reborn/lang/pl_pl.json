@@ -1,0 +1,18 @@
+{
+  "enhanced_attack_indicator_reborn.description": "Używa wskaźnika ataku nie tylko do ataków wręcz.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Używa wskaźnika ataku nie tylko do ataków wręcz.",
+  "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Przywróć domyślne",
+  "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Pokazuj postęp niszczenia bloków",
+  "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Pokazuj naciąg broni dystansowej",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Pokazuj czasy odnowienia przedmiotów",
+  "enhanced_attack_indicator_reborn.midnightconfig.showFoodAndPotions": "Pokazuj jedzenie i mikstury",
+  "enhanced_attack_indicator_reborn.midnightconfig.disablePickaxesAndShovels": "Wyłącz wskaźnik dla kilofów i łopat",
+  "enhanced_attack_indicator_reborn.midnightconfig.disableAxes": "Wyłącz wskaźnik dla toporów",
+  "enhanced_attack_indicator_reborn.midnightconfig.weaponCoolDownImportance": "Priorytet wskaźnika ataku",
+  "enhanced_attack_indicator_reborn.midnightconfig.showSleep": "Pokazuj postęp snu",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemContainerFullness": "Pokazuj zapełnienie shulkera",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "Pierwszy",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Środkowy",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Ostatni"
+}

@@ -1,0 +1,18 @@
+{
+  "enhanced_attack_indicator_reborn.description": "근접 공격뿐 아니라 다양한 상황에서 공격 표시기를 사용합니다.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "근접 공격뿐 아니라 다양한 상황에서 공격 표시기를 사용합니다.",
+  "enhanced_attack_indicator_reborn.configuration.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.configuration.reset": "기본값으로 재설정",
+  "enhanced_attack_indicator_reborn.configuration.showBlockBreaking": "블록 파괴 진행 표시",
+  "enhanced_attack_indicator_reborn.configuration.showRangeWeaponDraw": "원거리 무기 당김 표시",
+  "enhanced_attack_indicator_reborn.configuration.showItemCooldowns": "아이템 쿨다운 표시",
+  "enhanced_attack_indicator_reborn.configuration.showFoodAndPotions": "음식 및 물약 사용 표시",
+  "enhanced_attack_indicator_reborn.configuration.disablePickaxesAndShovels": "곡괭이/삽 공격 쿨다운 비활성화",
+  "enhanced_attack_indicator_reborn.configuration.disableAxes": "도끼 공격 쿨다운 비활성화",
+  "enhanced_attack_indicator_reborn.configuration.weaponCoolDownImportance": "공격 쿨다운 우선순위",
+  "enhanced_attack_indicator_reborn.configuration.showSleep": "수면 진행 표시",
+  "enhanced_attack_indicator_reborn.configuration.showItemContainerFullness": "셜커 상자 채움 표시",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.FIRST": "첫 번째",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.MIDDLE": "중간",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.LAST": "마지막"
+}

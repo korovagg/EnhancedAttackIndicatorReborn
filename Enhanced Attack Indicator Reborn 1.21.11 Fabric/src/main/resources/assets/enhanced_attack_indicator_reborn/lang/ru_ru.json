@@ -1,5 +1,8 @@
 {
+  "enhanced_attack_indicator_reborn.description": "Использует индикатор атаки не только для ближних атак.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Использует индикатор атаки не только для ближних атак.",
   "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Сбросить настройки",
   "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Показывать прогресс разрушения блока",
   "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Показывать натяжение лука/арбалета",
   "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Показывать перезарядку предметов",

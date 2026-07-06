@@ -1,5 +1,8 @@
 {
+  "enhanced_attack_indicator_reborn.description": "Uses the attack indicator for more than just melee attacks.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Uses the attack indicator for more than just melee attacks.",
   "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Reset to Defaults",
   "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Show Block Breaking Progress",
   "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Show Ranged Weapon Draw",
   "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Show Item Cooldowns",

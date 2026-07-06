@@ -1,0 +1,18 @@
+{
+  "enhanced_attack_indicator_reborn.description": "Usa el indicador de ataque para algo más que los ataques cuerpo a cuerpo.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Usa el indicador de ataque para algo más que los ataques cuerpo a cuerpo.",
+  "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Restablecer valores predeterminados",
+  "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Mostrar progreso de rotura de bloques",
+  "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Mostrar carga de arma a distancia",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Mostrar enfriamientos de objetos",
+  "enhanced_attack_indicator_reborn.midnightconfig.showFoodAndPotions": "Mostrar comida y pociones",
+  "enhanced_attack_indicator_reborn.midnightconfig.disablePickaxesAndShovels": "Desactivar enfriamiento de ataque de picos y palas",
+  "enhanced_attack_indicator_reborn.midnightconfig.disableAxes": "Desactivar enfriamiento de ataque de hachas",
+  "enhanced_attack_indicator_reborn.midnightconfig.weaponCoolDownImportance": "Prioridad del enfriamiento de ataque",
+  "enhanced_attack_indicator_reborn.midnightconfig.showSleep": "Mostrar progreso de sueño",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemContainerFullness": "Mostrar llenado de shulker",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "Primero",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Medio",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Último"
+}

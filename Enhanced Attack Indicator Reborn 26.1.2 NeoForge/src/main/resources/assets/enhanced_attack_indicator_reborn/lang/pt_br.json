@@ -1,0 +1,17 @@
+{
+  "enhanced_attack_indicator_reborn.description": "Usa o indicador de ataque para mais do que apenas ataques corpo a corpo.",
+  "enhanced_attack_indicator_reborn.configuration.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.configuration.reset": "Restaurar padrões",
+  "enhanced_attack_indicator_reborn.configuration.showBlockBreaking": "Mostrar progresso de quebra de blocos",
+  "enhanced_attack_indicator_reborn.configuration.showRangeWeaponDraw": "Mostrar carregamento de armas à distância",
+  "enhanced_attack_indicator_reborn.configuration.showItemCooldowns": "Mostrar recarga de itens",
+  "enhanced_attack_indicator_reborn.configuration.showFoodAndPotions": "Mostrar comida e poções",
+  "enhanced_attack_indicator_reborn.configuration.disablePickaxesAndShovels": "Desativar recarga de ataque de picaretas e pás",
+  "enhanced_attack_indicator_reborn.configuration.disableAxes": "Desativar recarga de ataque de machados",
+  "enhanced_attack_indicator_reborn.configuration.weaponCoolDownImportance": "Prioridade da recarga de ataque",
+  "enhanced_attack_indicator_reborn.configuration.showSleep": "Mostrar progresso do sono",
+  "enhanced_attack_indicator_reborn.configuration.showItemContainerFullness": "Mostrar preenchimento do shulker",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.FIRST": "Primeiro",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.MIDDLE": "Médio",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.LAST": "Último"
+}

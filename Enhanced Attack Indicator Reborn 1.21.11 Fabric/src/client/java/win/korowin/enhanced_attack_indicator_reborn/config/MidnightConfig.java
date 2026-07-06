@@ -230,12 +230,30 @@ public abstract class MidnightConfig {
 
             int titleWidth = textRenderer.getWidth(title);
             this.addDrawableChild( new TextWidget(width / 2 - titleWidth / 2, 12, titleWidth, 9, title, textRenderer));
-            this.addDrawableChild( button(this.width / 2 - 154, this.height - 28, 150, 20, ScreenTexts.CANCEL, button -> {
+            int footerLeft = this.width / 2 - 154;
+
+            this.addDrawableChild(button(footerLeft, this.height - 28, 100, 20, Text.translatable(translationPrefix + "reset"), button -> {
+                for (EntryInfo info : entries) {
+                    if (!info.id.equals(modid)) continue;
+                    if (!info.field.isAnnotationPresent(Entry.class)) continue;
+                    info.value = info.defaultValue;
+                    info.tempValue = String.valueOf(info.defaultValue);
+                    info.inLimits = true;
+                    info.error = null;
+                    try {
+                        info.field.set(null, info.defaultValue);
+                    } catch (IllegalAccessException ignored) {
+                    }
+                }
+                write(modid);
+                Objects.requireNonNull(client).setScreen(new MidnightConfigScreen(parent, modid));
+            }));
+            this.addDrawableChild( button(footerLeft + 104, this.height - 28, 100, 20, ScreenTexts.CANCEL, button -> {
                 loadValues();
                 Objects.requireNonNull(client).setScreen(parent);
             }));
 
-            ButtonWidget done = this.addDrawableChild( button(this.width / 2 + 4, this.height - 28, 150, 20, ScreenTexts.DONE, (button) -> {
+            ButtonWidget done = this.addDrawableChild( button(footerLeft + 208, this.height - 28, 100, 20, ScreenTexts.DONE, (button) -> {
                 for (EntryInfo info : entries)
                     if (info.id.equals(modid)) {
                         try {

@@ -1,0 +1,18 @@
+{
+  "enhanced_attack_indicator_reborn.description": "Використовує індикатор атаки не лише для ближніх атак.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Використовує індикатор атаки не лише для ближніх атак.",
+  "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Скинути до стандартних",
+  "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Показувати прогрес ламання блоків",
+  "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Показувати натяг далекобійної зброї",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Показувати перезарядку предметів",
+  "enhanced_attack_indicator_reborn.midnightconfig.showFoodAndPotions": "Показувати їжу та зілля",
+  "enhanced_attack_indicator_reborn.midnightconfig.disablePickaxesAndShovels": "Вимкнути індикатор для кирок і лопат",
+  "enhanced_attack_indicator_reborn.midnightconfig.disableAxes": "Вимкнути індикатор для сокир",
+  "enhanced_attack_indicator_reborn.midnightconfig.weaponCoolDownImportance": "Пріоритет індикатора атаки",
+  "enhanced_attack_indicator_reborn.midnightconfig.showSleep": "Показувати прогрес сну",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemContainerFullness": "Показувати заповненість шалкера",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "Перший",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Середній",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Останній"
+}

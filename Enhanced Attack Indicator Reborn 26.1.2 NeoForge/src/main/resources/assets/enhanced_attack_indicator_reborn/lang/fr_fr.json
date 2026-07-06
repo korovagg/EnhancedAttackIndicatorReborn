@@ -1,5 +1,7 @@
 {
+  "enhanced_attack_indicator_reborn.description": "Utilise l'indicateur d'attaque pour plus que des attaques de mêlée.",
   "enhanced_attack_indicator_reborn.configuration.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.configuration.reset": "Réinitialiser",
   "enhanced_attack_indicator_reborn.configuration.showBlockBreaking": "Afficher la progression de destruction des blocs",
   "enhanced_attack_indicator_reborn.configuration.showRangeWeaponDraw": "Afficher la préparation des armes à distance",
   "enhanced_attack_indicator_reborn.configuration.showItemCooldowns": "Afficher les temps de recharge des objets",
@@ -13,4 +15,3 @@
   "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.MIDDLE": "Milieu",
   "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.LAST": "Dernier"
 }
-

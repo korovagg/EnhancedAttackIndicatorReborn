@@ -1,0 +1,18 @@
+{
+  "enhanced_attack_indicator_reborn.description": "Usa l'indicatore d'attacco non solo per gli attacchi in mischia.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Usa l'indicatore d'attacco non solo per gli attacchi in mischia.",
+  "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Ripristina predefiniti",
+  "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Mostra progresso di rottura dei blocchi",
+  "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Mostra caricamento delle armi a distanza",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Mostra ricarica degli oggetti",
+  "enhanced_attack_indicator_reborn.midnightconfig.showFoodAndPotions": "Mostra cibo e pozioni",
+  "enhanced_attack_indicator_reborn.midnightconfig.disablePickaxesAndShovels": "Disattiva ricarica d'attacco di picconi e pale",
+  "enhanced_attack_indicator_reborn.midnightconfig.disableAxes": "Disattiva ricarica d'attacco delle asce",
+  "enhanced_attack_indicator_reborn.midnightconfig.weaponCoolDownImportance": "Priorità della ricarica d'attacco",
+  "enhanced_attack_indicator_reborn.midnightconfig.showSleep": "Mostra progresso del sonno",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemContainerFullness": "Mostra riempimento dello shulker",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "Primo",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Medio",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Ultimo"
+}

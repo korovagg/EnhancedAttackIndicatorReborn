@@ -30,6 +30,18 @@ public final class Config {
 	private Config() {
 	}
 
+	public static void resetToDefaults() {
+		weaponCoolDownImportance = WeaponCoolDownImportance.MIDDLE;
+		disablePickaxesAndShovels = true;
+		disableAxes = false;
+		showBlockBreaking = true;
+		showRangeWeaponDraw = true;
+		showItemCooldowns = true;
+		showFoodAndPotions = true;
+		showSleep = true;
+		showItemContainerFullness = true;
+	}
+
 	public static void load() {
 		if (!Files.exists(PATH)) {
 			save();
@@ -82,4 +94,3 @@ public final class Config {
 		boolean showItemContainerFullness = true;
 	}
 }
-

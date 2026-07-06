@@ -1,5 +1,8 @@
 {
+  "enhanced_attack_indicator_reborn.description": "将攻击指示器用于不仅仅是近战攻击。",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "将攻击指示器用于不仅仅是近战攻击。",
   "enhanced_attack_indicator_reborn.configuration.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.configuration.reset": "重置为默认值",
   "enhanced_attack_indicator_reborn.configuration.showBlockBreaking": "显示破坏方块进度",
   "enhanced_attack_indicator_reborn.configuration.showRangeWeaponDraw": "显示远程武器的拉动",
   "enhanced_attack_indicator_reborn.configuration.showItemCooldowns": "显示物品冷却时间",
@@ -13,4 +16,3 @@
   "enhanced_attack_indicator_reborn.configuration.showSleep": "显示睡眠进度",
   "enhanced_attack_indicator_reborn.configuration.showItemContainerFullness": "显示潜影盒充满度"
 }
-

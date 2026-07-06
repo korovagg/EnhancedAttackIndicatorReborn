@@ -27,6 +27,11 @@
   "mixins": [
     "enhanced_attack_indicator_reborn.mixins.json"
   ],
+  "custom": {
+    "modmenu": {
+      "descriptionTranslation": "enhanced_attack_indicator_reborn.description"
+    }
+  },
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric-api": "*",

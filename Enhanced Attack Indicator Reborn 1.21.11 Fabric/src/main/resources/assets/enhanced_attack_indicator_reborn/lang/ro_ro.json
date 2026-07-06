@@ -1,0 +1,18 @@
+{
+  "enhanced_attack_indicator_reborn.description": "Folosește indicatorul de atac pentru mai mult decât atacurile corp la corp.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Folosește indicatorul de atac pentru mai mult decât atacurile corp la corp.",
+  "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Resetează la implicit",
+  "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Afișează progresul spargerii blocurilor",
+  "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Afișează încărcarea armelor la distanță",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Afișează timpii de reîncărcare ai obiectelor",
+  "enhanced_attack_indicator_reborn.midnightconfig.showFoodAndPotions": "Afișează mâncarea și poțiunile",
+  "enhanced_attack_indicator_reborn.midnightconfig.disablePickaxesAndShovels": "Dezactivează indicatorul pentru târnăcoape și lopeți",
+  "enhanced_attack_indicator_reborn.midnightconfig.disableAxes": "Dezactivează indicatorul pentru topoare",
+  "enhanced_attack_indicator_reborn.midnightconfig.weaponCoolDownImportance": "Prioritatea indicatorului de atac",
+  "enhanced_attack_indicator_reborn.midnightconfig.showSleep": "Afișează progresul somnului",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemContainerFullness": "Afișează umplerea shulker-ului",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "Primul",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Mijloc",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Ultimul"
+}

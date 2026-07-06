@@ -1,0 +1,18 @@
+{
+  "enhanced_attack_indicator_reborn.description": "Saldırı göstergesini yalnızca yakın dövüş saldırıları için değil, daha fazlası için kullanır.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Saldırı göstergesini yalnızca yakın dövüş saldırıları için değil, daha fazlası için kullanır.",
+  "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Varsayılanlara sıfırla",
+  "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Blok Kırma İlerlemesini Göster",
+  "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Menzilli Silah Gerilimini Göster",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Eşya Bekleme Sürelerini Göster",
+  "enhanced_attack_indicator_reborn.midnightconfig.showFoodAndPotions": "Yemek ve İksirleri Göster",
+  "enhanced_attack_indicator_reborn.midnightconfig.disablePickaxesAndShovels": "Kazma ve Kürek için Saldırı Bekleme Süresini Devre Dışı Bırak",
+  "enhanced_attack_indicator_reborn.midnightconfig.disableAxes": "Balta için Saldırı Bekleme Süresini Devre Dışı Bırak",
+  "enhanced_attack_indicator_reborn.midnightconfig.weaponCoolDownImportance": "Saldırı Bekleme Önceliği",
+  "enhanced_attack_indicator_reborn.midnightconfig.showSleep": "Uyku İlerlemesini Göster",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemContainerFullness": "Shulker Doluluğunu Göster",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "İlk",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Orta",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Son"
+}

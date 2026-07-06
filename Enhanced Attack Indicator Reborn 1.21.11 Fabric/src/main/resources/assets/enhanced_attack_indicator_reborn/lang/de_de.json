@@ -1,0 +1,18 @@
+{
+  "enhanced_attack_indicator_reborn.description": "Nutzt den Angriffsindikator für mehr als nur Nahkampfangriffe.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Nutzt den Angriffsindikator für mehr als nur Nahkampfangriffe.",
+  "enhanced_attack_indicator_reborn.midnightconfig.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Auf Standard zurücksetzen",
+  "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Blockabbau-Fortschritt anzeigen",
+  "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Spannfortschritt von Fernkampfwaffen anzeigen",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Gegenstands-Abklingzeiten anzeigen",
+  "enhanced_attack_indicator_reborn.midnightconfig.showFoodAndPotions": "Essen & Tränke anzeigen",
+  "enhanced_attack_indicator_reborn.midnightconfig.disablePickaxesAndShovels": "Angriffs-Abklingzeit für Spitzhacken & Schaufeln deaktivieren",
+  "enhanced_attack_indicator_reborn.midnightconfig.disableAxes": "Angriffs-Abklingzeit für Äxte deaktivieren",
+  "enhanced_attack_indicator_reborn.midnightconfig.weaponCoolDownImportance": "Priorität der Angriffs-Abklingzeit",
+  "enhanced_attack_indicator_reborn.midnightconfig.showSleep": "Schlaf-Fortschritt anzeigen",
+  "enhanced_attack_indicator_reborn.midnightconfig.showItemContainerFullness": "Shulker-Füllstand anzeigen",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.FIRST": "Erste",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.MIDDLE": "Mitte",
+  "enhanced_attack_indicator_reborn.midnightconfig.enum.WeaponCoolDownImportance.LAST": "Letzte"
+}

@@ -1,5 +1,8 @@
 {
+  "enhanced_attack_indicator_reborn.description": "Utilise l'indicateur d'attaque pour plus que des attaques de mêlée.",
+  "modmenu.descriptionTranslation.enhanced_attack_indicator_reborn": "Utilise l'indicateur d'attaque pour plus que des attaques de mêlée.",
   "enhanced_attack_indicator_reborn.midnightconfig.title": "Indicateur d'attaque amélioré Reborn",
+  "enhanced_attack_indicator_reborn.midnightconfig.reset": "Réinitialiser",
   "enhanced_attack_indicator_reborn.midnightconfig.showBlockBreaking": "Afficher la progression de destruction des blocs",
   "enhanced_attack_indicator_reborn.midnightconfig.showRangeWeaponDraw": "Afficher la préparation des armes à distance",
   "enhanced_attack_indicator_reborn.midnightconfig.showItemCooldowns": "Afficher les temps de recharge des objets",
