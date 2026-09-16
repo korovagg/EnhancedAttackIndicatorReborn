@@ -1,0 +1,17 @@
+{
+  "enhanced_attack_indicator_reborn.description": "Saldırı göstergesini yalnızca yakın dövüş saldırıları için değil, daha fazlası için kullanır.",
+  "enhanced_attack_indicator_reborn.configuration.title": "Enhanced Attack Indicator Reborn",
+  "enhanced_attack_indicator_reborn.configuration.reset": "Varsayılanlara sıfırla",
+  "enhanced_attack_indicator_reborn.configuration.showBlockBreaking": "Blok Kırma İlerlemesini Göster",
+  "enhanced_attack_indicator_reborn.configuration.showRangeWeaponDraw": "Menzilli Silah Gerilimini Göster",
+  "enhanced_attack_indicator_reborn.configuration.showItemCooldowns": "Eşya Bekleme Sürelerini Göster",
+  "enhanced_attack_indicator_reborn.configuration.showFoodAndPotions": "Yemek ve İksirleri Göster",
+  "enhanced_attack_indicator_reborn.configuration.disablePickaxesAndShovels": "Kazma ve Kürek için Saldırı Bekleme Süresini Devre Dışı Bırak",
+  "enhanced_attack_indicator_reborn.configuration.disableAxes": "Balta için Saldırı Bekleme Süresini Devre Dışı Bırak",
+  "enhanced_attack_indicator_reborn.configuration.weaponCoolDownImportance": "Saldırı Bekleme Önceliği",
+  "enhanced_attack_indicator_reborn.configuration.showSleep": "Uyku İlerlemesini Göster",
+  "enhanced_attack_indicator_reborn.configuration.showItemContainerFullness": "Shulker Doluluğunu Göster",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.FIRST": "İlk",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.MIDDLE": "Orta",
+  "enhanced_attack_indicator_reborn.configuration.enum.WeaponCoolDownImportance.LAST": "Son"
+}

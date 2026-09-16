@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "win.korowin.enhanced_attack_indicator_reborn.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [],
+	"client": [
+		"GuiMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
